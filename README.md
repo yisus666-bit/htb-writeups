@@ -6,8 +6,7 @@
 
 **Autor:** Andres  
 **Perfil HTB:** [yisus666
-#CR](https://app.hackthebox.com/users/yisus666
-#CR)  
+#CR] 
 
 
 ---
