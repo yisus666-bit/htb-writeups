@@ -5,8 +5,10 @@
 > Cada write-up incluye reconocimiento, análisis de vulnerabilidades, explotación y escalada de privilegios.
 
 **Autor:** Andres  
-**Perfil HTB:** [tu-usuario](https://app.hackthebox.com/users/tu-id)  
-**Certificaciones:** eJPT | *Cursando: Ingeniería en Ciberseguridad*
+**Perfil HTB:** [yisus666
+#CR](https://app.hackthebox.com/users/yisus666
+#CR)  
+
 
 ---
 
