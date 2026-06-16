@@ -15,11 +15,11 @@
 
 | # | Máquina | OS | Dificultad | Técnicas Clave | Write-up |
 |---|---|---|---|---|---|
-| 1 | [Cap](./Cap/) | 🐧 Linux | 🟢 Easy | IDOR, PCAP analysis, Linux Capabilities | [Ver](./Cap/README.md) |
-| 2 | [Silentium](./Silentium/) | 🐧 Linux | 🟢 Easy | *(completar)* | [Ver](./Silentium/README.md) |
-| 3 | [Facts](./Facts/) | 🐧 Linux | 🟢 Easy | *(completar)* | [Ver](./Facts/README.md) |
-| 4 | [MonitorsFour](./MonitorsFour/) | 🪟 Windows | 🟢 Easy | *(completar)* | [Ver](./MonitorsFour/README.md) |
-| 5 | [Manage](./Manage/) | 🐧 Linux | 🟢 Easy | *(completar)* | [Ver](./Manage/README.md) |
+| 1 | [Cap](./Cap/) |  Linux | 🟢 Easy | IDOR, PCAP analysis, Linux Capabilities | [Ver](./Cap/README.md) |
+| 2 | [Silentium](./Silentium/) |  Linux | 🟢 Easy | *(completar)* | [Ver](./Silentium/README.md) |
+| 3 | [Facts](./Facts/) |  Linux | 🟢 Easy | *(completar)* | [Ver](./Facts/README.md) |
+| 4 | [MonitorsFour](./MonitorsFour/) |  Windows | 🟢 Easy | *(completar)* | [Ver](./MonitorsFour/README.md) |
+| 5 | [Manage](./Manage/) |  Linux | 🟢 Easy | *(completar)* | [Ver](./Manage/README.md) |
 
 **Total:** 5 máquinas | **Linux:** 4 | **Windows:** 1
 
